@@ -6,7 +6,7 @@ Trata-se de uma iniciativa com foco **institucional**, **auditável** e **escal�
 
 ---
 
-## 🎯 Contexto do Problema
+##  Contexto do Problema
 
 A gestão de crédito e recuperação envolve hoje um cenário complexo:
 
